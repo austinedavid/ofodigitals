@@ -1,0 +1,26 @@
+.sidebar{
+    background-color: black;
+    max-height: 800px;
+    color: white;
+    overflow-y: scroll;
+}
+.list-group-item{
+    background-color: transparent;
+    color: grey;
+   
+}
+.mainbar{
+    background-color: silver;
+}
+.table{
+    background-color: white;
+}
+.footers{
+    background-color:rgb(24, 21, 21);
+    color: white;
+    font-size: 20px;
+    
+}
+.footerlist{
+    border: 0px;
+}
